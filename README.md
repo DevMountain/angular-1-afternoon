@@ -4,7 +4,7 @@
 
 In this project, we'll create an Angular application that displays a list of your friends. The list will be searchable and filterable through user interaction. You can see a live demo by clicking on the link below.
 
-Live example: <a href="https://devlemire.github.io/angular-1-afternoon/">Click Me!</a>
+Live example: <a href="https://devmountain.github.io/angular-1-afternoon/">Click Me!</a>
 
 ## Setup
 
@@ -312,7 +312,7 @@ angular.module("myApp").controller("friendCtrl", function( $scope ) {
 
 <br />
 
-<img src="https://github.com/devlemire/angular-1-afternoon/blob/solution/readme-assets/1.png" />
+<img src="https://github.com/devmountain/angular-1-afternoon/blob/solution/readme-assets/1.png" />
 
 ## Step 3
 
@@ -453,7 +453,7 @@ angular.module("myApp").controller("friendCtrl", function( $scope ) {
 
 <br />
 
-<img src="https://github.com/devlemire/angular-1-afternoon/blob/solution/readme-assets/1g.gif" />
+<img src="https://github.com/devmountain/angular-1-afternoon/blob/solution/readme-assets/1g.gif" />
 
 ## Step 4
 
@@ -645,7 +645,7 @@ angular.module("myApp").controller("friendCtrl", function( $scope ) {
 
 <br />
 
-<img src="https://github.com/devlemire/angular-1-afternoon/blob/solution/readme-assets/2g.gif" />
+<img src="https://github.com/devmountain/angular-1-afternoon/blob/solution/readme-assets/2g.gif" />
 
 ## Step 5
 
@@ -825,7 +825,7 @@ angular.module("myApp").controller("friendCtrl", function( $scope ) {
 
 <br />
 
-<img src="https://github.com/devlemire/angular-1-afternoon/blob/solution/readme-assets/3g.gif" />
+<img src="https://github.com/devmountain/angular-1-afternoon/blob/solution/readme-assets/3g.gif" />
 
 ## Black Diamond
 
